@@ -1,5 +1,4 @@
-# A demo botnet is not real 
-
+# A demo botnet, is not real.
 
 
 # How to run it?
