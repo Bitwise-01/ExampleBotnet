@@ -1,5 +1,6 @@
-# ExampleBotnet
 # A demo botnet is not real 
+
+
 
 # How to run it?
 
@@ -16,8 +17,7 @@
 
 
 4) start the master computer 
-  ** password = password **
-  
-  ** there can only be one master **
+  **password = password**  
+  **there can only be one master**
 * python master.py 
 
