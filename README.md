@@ -11,7 +11,7 @@
 
 
 3) In terminal 2 start the zombie computer
-  **an infected computer**
+  (**an infected computer**)
 * python zombie.py
 
 
