@@ -17,7 +17,7 @@
 
 
 4) start the master computer 
-  **password = password**  
-  **there can only be one master**
+  (**password = password**)
+  (**there can only be one master**)
 * python master.py 
 
